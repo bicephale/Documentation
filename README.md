@@ -2,7 +2,13 @@
 
 This is the official documentation for the Bicephale 3D Printer, written by the team with community contributions.
 
+
 ## Contents
+
+http://www.bicephale.fr
+
+http://www.bicephale.fr/support/
+
 
 ## Licence
 
